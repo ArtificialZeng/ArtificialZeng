@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm ZengXiaojian. Currently working as a LLM practitioner.
 
 <!--
 **ArtificialZeng/ArtificialZeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
