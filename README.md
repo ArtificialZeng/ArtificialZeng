@@ -1,6 +1,14 @@
 ### Hi there 👋 I'm Shawn. Currently working as a LLM practitioner.
-主要有大模型训练，和大模型代码解析两块。还有一些重大项目的微小贡献。  
+发起项目主要有大模型训练，和大模型代码解析(逐行)两块。还有一些重大项目的微小贡献。  
 [Baichuan微调训练](https://github.com/ArtificialZeng/Baichuan-Chat-Tuning)
+
+Source Code Contributor/源码贡献项目：  
+fastllm - 大模型加速/量化  
+PaddleNLP - 百度出品的通用NLP框架  
+Pycaret - 自动化机器学习  
+AutoX - 自动化机器学习  
+ailabx（getee）- 量化金融
+torchlm 等
 
 <!--
 **ArtificialZeng/ArtificialZeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
