@@ -7,7 +7,7 @@ fastllm - 大模型加速/量化
 PaddleNLP - 百度出品的通用NLP框架  
 Pycaret - 自动化机器学习  
 AutoX - 自动化机器学习  
-ailabx（getee）- 量化金融
+ailabx（getee）- 量化金融  
 torchlm 等
 
 <!--
