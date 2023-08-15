@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Shawn. Currently working as a LLM practitioner.
 发起项目主要有大模型训练，和大模型代码解析(逐行)两块。还有一些重大项目的微小贡献。  
-[Baichuan微调训练](https://github.com/ArtificialZeng/Baichuan-Chat-Tuning)
+[Baichuan微调训练](https://github.com/ArtificialZeng/Baichuan-Chat-Tuning) *** [百川微调训练源码解析](https://github.com/ArtificialZeng/Baichuan-Qwen-Llama-tuning-Explained)
 
 Source Code Contributor/源码贡献项目：  
 fastllm - 大模型加速/量化  
