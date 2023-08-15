@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm Shawn. Currently working as a LLM practitioner.
 主要有大模型训练，和大模型代码解析两块。还有一些重大项目的微小贡献。
+[Baichuan微调训练](https://github.com/ArtificialZeng/Baichuan-Chat-Tuning)
 
 <!--
 **ArtificialZeng/ArtificialZeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
