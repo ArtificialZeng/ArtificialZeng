@@ -3,7 +3,7 @@
 [Baichuan微调训练](https://github.com/ArtificialZeng/Baichuan-Chat-Tuning) *** [百川微调训练源码解析](https://github.com/ArtificialZeng/Baichuan-Qwen-Llama-tuning-Explained)
 
 Source Code Contributor/源码贡献项目：  
-Baichuan 2 - 百川7-13B版本的第二个版本(9.6发布)
+Baichuan 2 - 百川7-13B版本的第二个版本(9.6发布)  
 Qwen-7B - 阿里出品千问7B同级别SOTA chat项目    
 fastllm - 大模型加速/量化  
 PaddleNLP - 百度出品的通用NLP框架  
