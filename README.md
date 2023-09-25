@@ -4,8 +4,9 @@
 
 Source Code Contributor/源码贡献项目：  
 Baichuan 2 - 百川7-13B版本的第二个版本(9.6发布)  
-Qwen-7B - 阿里出品千问7B同级别SOTA chat项目    
+Qwen - 阿里出品千问7B/14B同级别SOTA chat项目    
 fastllm - 大模型加速/量化  
+Awesome-Prompt-Engineering - 提示工程合集
 PaddleNLP - 百度出品的通用NLP框架  
 Pycaret - 自动化机器学习  
 AutoX - 自动化机器学习  
