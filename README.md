@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Shawn. Currently working as a LLM practitioner.
 发起项目主要有大模型训练，和大模型代码解析(逐行)两块。还有一些重大项目的微小贡献。  
-[Baichuan微调训练](https://github.com/ArtificialZeng/Baichuan-Chat-Tuning) *** [百川微调训练源码解析](https://github.com/ArtificialZeng/Baichuan-Qwen-Llama-tuning-Explained)
+[Baichuan微调训练](https://github.com/ArtificialZeng/Baichuan-Chat-Tuning) *** [百川微调训练源码解析](https://github.com/ArtificialZeng/Baichuan-Qwen-Llama-tuning-Explained)  
+***  [ChatGLM-Efficient-Tuning-Explained](https://github.com/ArtificialZeng/ChatGLM-Efficient-Tuning-Explained)
 
 Source Code Contributor/源码贡献项目：  
 Qwen - 阿里出品千问7B/14B同级别SOTA chat项目  
