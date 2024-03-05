@@ -11,6 +11,7 @@ Awesome-Prompt-Engineering - 提示工程合集
 PaddleNLP - 百度出品的通用NLP框架  
 Pycaret - 自动化机器学习  
 AutoX - 自动化机器学习  
+[ProG](https://github.com/sheldonresearch/ProG/tree/main) - 图神经网络框架  
 ailabx（getee）- 量化金融  
 torchlm 等
 
