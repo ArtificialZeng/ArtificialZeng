@@ -15,6 +15,12 @@ AutoX - 自动化机器学习
 ailabx（getee）- 量化金融  
 torchlm 等
 
+The initiated projects mainly include large model training and large model code analysis (line by line).   
+There are also minor contributions to major projects.   
+Baichuan fine-tuning training *** Baichuan fine-tuning training source code analysis 
+ChatGLM2-6B-Explained *** 
+ChatGLM-Efficient-Tuning-Explained Source Code Contributor
+
 <!--
 **ArtificialZeng/ArtificialZeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
