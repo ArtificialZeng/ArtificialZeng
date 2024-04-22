@@ -4,6 +4,7 @@
 [ChatGLM2-6B-Explained](https://github.com/ArtificialZeng/ChatGLM2-6B-Explained) ***  [ChatGLM-Efficient-Tuning-Explained](https://github.com/ArtificialZeng/ChatGLM-Efficient-Tuning-Explained)
 
 Source Code Contributor/源码贡献项目：  
+[llama3](https://github.com/meta-llama/llama3) - Meta开源的世界上最强大的开源模型  
 Qwen - 阿里出品千问7B/14B同级别SOTA chat项目  
 Baichuan 2 - 百川7-13B版本的第二个版本(9.6发布)     
 fastllm - 大模型加速/量化  
