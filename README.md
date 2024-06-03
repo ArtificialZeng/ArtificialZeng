@@ -4,14 +4,14 @@
 [ChatGLM2-6B-Explained](https://github.com/ArtificialZeng/ChatGLM2-6B-Explained) ***  [ChatGLM-Efficient-Tuning-Explained](https://github.com/ArtificialZeng/ChatGLM-Efficient-Tuning-Explained)
 
 Source Code Contributor/源码贡献项目：  
-[llama3](https://github.com/meta-llama/llama3) - Meta开源的世界上最强大的开源模型  
-[Qwen](https://github.com/QwenLM/Qwen) - 阿里出品千问7B/14B同级别SOTA chat项目  
+[llama3](https://github.com/meta-llama/llama3) - 21.5k star Meta开源的世界上最强大的开源模型  
+[Qwen](https://github.com/QwenLM/Qwen) - 11.7k star 阿里出品千问7B/14B同级别SOTA chat项目  
 [Baichuan2](https://github.com/baichuan-inc/Baichuan2) - 4k star 百川7-13B版本的第二个版本(9.6发布)  
-[RAGFlow](https://github.com/infiniflow/ragflow) - RAG近万星框架  
+[RAGFlow](https://github.com/infiniflow/ragflow) - 8.7k star RAG近万星框架  
 fastllm - 大模型加速/量化  
 Awesome-Prompt-Engineering - 提示工程合集  
-PaddleNLP - 百度出品的通用NLP框架  
-Pycaret - 自动化机器学习  
+PaddleNLP - 11.6k 百度出品的通用NLP框架  
+Pycaret - 8.6k 顶级自动化机器学习框架  
 AutoX - 自动化机器学习  
 [ProG](https://github.com/sheldonresearch/ProG/tree/main) - 图神经网络框架  
 ailabx（getee）- 量化金融  
