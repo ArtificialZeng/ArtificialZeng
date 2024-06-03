@@ -9,7 +9,7 @@ Source Code Contributor/源码贡献项目：
 [Baichuan2](https://github.com/baichuan-inc/Baichuan2) - 4k star 百川7-13B版本的第二个版本(9.6发布)  
 [RAGFlow](https://github.com/infiniflow/ragflow) - 8.7k star RAG近万星框架  
 fastllm - 3.1k star 大模型加速/量化  
-Awesome-Prompt-Engineering - 提示工程合集  
+Awesome-Prompt-Engineering - 3.4k star 提示工程合集  
 PaddleNLP - 11.6k 百度出品的通用NLP框架  
 Pycaret - 8.6k 顶级自动化机器学习框架  
 AutoX - 自动化机器学习  
