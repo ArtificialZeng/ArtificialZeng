@@ -6,7 +6,7 @@
 Source Code Contributor/源码贡献项目：  
 [llama3](https://github.com/meta-llama/llama3) - Meta开源的世界上最强大的开源模型  
 [Qwen](https://github.com/QwenLM/Qwen) - 阿里出品千问7B/14B同级别SOTA chat项目  
-Baichuan 2 - 百川7-13B版本的第二个版本(9.6发布)  
+[Baichuan2](https://github.com/baichuan-inc/Baichuan2) - 4k star 百川7-13B版本的第二个版本(9.6发布)  
 [RAGFlow](https://github.com/infiniflow/ragflow) - RAG近万星框架  
 fastllm - 大模型加速/量化  
 Awesome-Prompt-Engineering - 提示工程合集  
