@@ -5,6 +5,7 @@
 
 Source Code Contributor/源码贡献项目：  
 [llama3](https://github.com/meta-llama/llama3) - 21.5k star Meta开源的世界上最强大的开源模型  
+[transformers](https://github.com/huggingface/transformers) - 130k star 自然语言理解基础级框架  
 [Qwen](https://github.com/QwenLM/Qwen) - 11.7k star 阿里出品千问7B/14B同级别SOTA chat项目  
 [Baichuan2](https://github.com/baichuan-inc/Baichuan2) - 4k star 百川7-13B版本的第二个版本(9.6发布)  
 [RAGFlow](https://github.com/infiniflow/ragflow) - 8.7k star RAG近万星框架  
