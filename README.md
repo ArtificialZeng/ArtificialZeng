@@ -16,7 +16,7 @@
 | ![Infiniflow Logo][] | [RAGFlow](https://github.com/infiniflow/ragflow) | ![GitHub Repo stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=social) | RAG框架，近1万星 |
 | ![FastLLM Logo][] | [fastllm](https://github.com/ztxz16/fastllm) | ![GitHub Repo stars](https://img.shields.io/github/stars/ztxz16/fastllm?style=social) | 大模型加速/量化 |
 | ![Promptslab Logo][] | [Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) | ![GitHub Repo stars](https://img.shields.io/github/stars/promptslab/Awesome-Prompt-Engineering?style=social) | 提示工程集合 |
-| <img src="[https://github.com/meta-llama.png](https://github.com/ArtificialZeng/ArtificialZeng/tree/main/logo_file/baidu_logo.png)" width="100" height="50"> | [PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) | ![GitHub Repo stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleNLP?style=social) | 百度通用NLP框架 |
+| <img src="https://github.com/ArtificialZeng/ArtificialZeng/tree/main/logo_file/baidu_logo.png" width="100" height="40"> | [PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) | ![GitHub Repo stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleNLP?style=social) | 百度通用NLP框架 |
 | ![Pycaret Logo][] | [Pycaret](https://github.com/pycaret/pycaret) | ![GitHub Repo stars](https://img.shields.io/github/stars/pycaret/pycaret?style=social) | 顶级自动化机器学习框架 |
 | ![4Paradigm Logo][] | [AutoX](https://github.com/4paradigm/AutoX) | ![GitHub Repo stars](https://img.shields.io/github/stars/4paradigm/AutoX?style=social) | 自动化机器学习 |
 | ![ProG Logo][] | [ProG](https://github.com/sheldonresearch/ProG) | ![GitHub Repo stars](https://img.shields.io/github/stars/sheldonresearch/ProG?style=social) | 图神经网络框架 |
