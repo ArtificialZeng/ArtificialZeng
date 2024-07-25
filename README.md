@@ -5,7 +5,49 @@
 
 发起项目主要有大模型训练，和大模型代码解析(逐行)两块。还有一些重大项目的微小贡献。  
 [Baichuan微调训练](https://github.com/ArtificialZeng/Baichuan-Chat-Tuning)       *** [百川微调训练源码解析](https://github.com/ArtificialZeng/Baichuan-Qwen-Llama-tuning-Explained)  
-[ChatGLM2-6B-Explained](https://github.com/ArtificialZeng/ChatGLM2-6B-Explained) ***  [ChatGLM-Efficient-Tuning-Explained](https://github.com/ArtificialZeng/ChatGLM-Efficient-Tuning-Explained)
+[ChatGLM2-6B-Explained](https://github.com/ArtificialZeng/ChatGLM2-6B-Explained) ***  [ChatGLM-Efficient-Tuning-Explained](https://github.com/ArtificialZeng/ChatGLM-Efficient-Tuning-Explained)  
+## 我贡献的项目：
+| Company | Project | Stars | Description |
+|---------|---------|-------|-------------|
+| ![Meta Logo][] | [llama3](https://github.com/meta-llama/llama3) | ![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/llama3?style=social) | Meta的最强开源模型 |
+| ![Hugging Face Logo][] | [transformers](https://github.com/huggingface/transformers) | ![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/transformers?style=social) | 自然语言理解的基础框架 |
+| ![Alibaba Logo][] | [Qwen](https://github.com/QwenLM/Qwen) | ![GitHub Repo stars](https://img.shields.io/github/stars/QwenLM/Qwen?style=social) | 阿里7B/14B SOTA聊天项目 |
+| ![Baichuan Logo][] | [Baichuan2](https://github.com/baichuan-inc/Baichuan2) | ![GitHub Repo stars](https://img.shields.io/github/stars/baichuan-inc/Baichuan2?style=social) | 百川智能第二代7-13B（9.6发布） |
+| ![Infiniflow Logo][] | [RAGFlow](https://github.com/infiniflow/ragflow) | ![GitHub Repo stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=social) | RAG框架，近1万星 |
+| ![FastLLM Logo][] | [fastllm](https://github.com/ztxz16/fastllm) | ![GitHub Repo stars](https://img.shields.io/github/stars/ztxz16/fastllm?style=social) | 大模型加速/量化 |
+| ![Promptslab Logo][] | [Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) | ![GitHub Repo stars](https://img.shields.io/github/stars/promptslab/Awesome-Prompt-Engineering?style=social) | 提示工程集合 |
+| <img src="[https://github.com/meta-llama.png](https://github.com/ArtificialZeng/ArtificialZeng/tree/main/logo_file/baidu_logo.png)" width="100" height="50"> | [PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) | ![GitHub Repo stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleNLP?style=social) | 百度通用NLP框架 |
+| ![Pycaret Logo][] | [Pycaret](https://github.com/pycaret/pycaret) | ![GitHub Repo stars](https://img.shields.io/github/stars/pycaret/pycaret?style=social) | 顶级自动化机器学习框架 |
+| ![4Paradigm Logo][] | [AutoX](https://github.com/4paradigm/AutoX) | ![GitHub Repo stars](https://img.shields.io/github/stars/4paradigm/AutoX?style=social) | 自动化机器学习 |
+| ![ProG Logo][] | [ProG](https://github.com/sheldonresearch/ProG) | ![GitHub Repo stars](https://img.shields.io/github/stars/sheldonresearch/ProG?style=social) | 图神经网络框架 |
+| ![TorchLM Logo][] | [torchlm](https://github.com/DefTruth/torchlm) | ![GitHub Repo stars](https://img.shields.io/github/stars/DefTruth/torchlm?style=social) | Torch系列框架 |
+
+[Meta Logo]: https://example.com/meta-logo.png
+[Hugging Face Logo]: https://example.com/huggingface-logo.png
+[Alibaba Logo]: https://example.com/alibaba-logo.png
+[Baichuan Logo]: https://example.com/baichuan-logo.png
+[Infiniflow Logo]: https://example.com/infiniflow-logo.png
+[FastLLM Logo]: https://example.com/fastllm-logo.png
+[Promptslab Logo]: https://example.com/promptslab-logo.png
+[Baidu Logo]: https://github.com/ArtificialZeng/ArtificialZeng/tree/main/logo_file/baidu_logo.png
+[Pycaret Logo]: https://example.com/pycaret-logo.png
+[4Paradigm Logo]: https://example.com/4paradigm-logo.png
+[ProG Logo]: https://example.com/prog-logo.png
+[TorchLM Logo]: https://example.com/torchlm-logo.png
+| Project | Stars | Description |
+|---------|-------|-------------|
+| ![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)[llama3](https://github.com/meta-llama/llama3) | ![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/llama3?style=social) | Meta的最强开源模型 |
+| [transformers](https://github.com/huggingface/transformers) | ![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/transformers?style=social) | 自然语言理解的基础框架 |
+| ![](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white)[Qwen](https://github.com/QwenLM/Qwen) | ![GitHub Repo stars](https://img.shields.io/github/stars/QwenLM/Qwen?style=social) | 阿里7B/14B SOTA聊天项目 |
+| [Baichuan2](https://github.com/baichuan-inc/Baichuan2) | ![GitHub Repo stars](https://img.shields.io/github/stars/baichuan-inc/Baichuan2?style=social) | 百川智能第二代7-13B（9.6发布） |
+| [RAGFlow](https://github.com/infiniflow/ragflow) | ![GitHub Repo stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=social) | RAG框架，近1万星 |
+| [fastllm](https://github.com/ztxz16/fastllm) | ![GitHub Repo stars](https://img.shields.io/github/stars/ztxz16/fastllm?style=social) | 大模型加速/量化 |
+| [Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) | ![GitHub Repo stars](https://img.shields.io/github/stars/promptslab/Awesome-Prompt-Engineering?style=social) | 提示工程集合 |
+| https://github.com/ArtificialZeng/ArtificialZeng/tree/main/logo_file[PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) | ![GitHub Repo stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleNLP?style=social) | 百度通用NLP框架 |
+| [Pycaret](https://github.com/pycaret/pycaret) | ![GitHub Repo stars](https://img.shields.io/github/stars/pycaret/pycaret?style=social) | 顶级自动化机器学习框架 |
+| [AutoX](https://github.com/4paradigm/AutoX) | ![GitHub Repo stars](https://img.shields.io/github/stars/4paradigm/AutoX?style=social) | 自动化机器学习 |
+| [ProG](https://github.com/sheldonresearch/ProG) | ![GitHub Repo stars](https://img.shields.io/github/stars/sheldonresearch/ProG?style=social) | 图神经网络框架 |
+| [torchlm](https://github.com/DefTruth/torchlm) | ![GitHub Repo stars](https://img.shields.io/github/stars/DefTruth/torchlm?style=social) | Torch系列框架 |
 
 | Project | Description | Stars |
 |---------|-------------|-------|
@@ -24,21 +66,7 @@
 | **Total** | | **:star:212.7k** |
 
 
-| Project | Stars | Description |
-|---------|-------|-------------|
-| [llama3](https://github.com/meta-llama/llama3) | 21.5k | Meta's open-source model, one of the world's most powerful |
-| [transformers](https://github.com/huggingface/transformers) | ![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/transformers?style=social) | Fundamental framework for natural language understanding |
-| [Qwen](https://github.com/QwenLM/Qwen) | 11.7k | Alibaba's Qwen 7B/14B SOTA chat project |
-| [Baichuan2](https://github.com/baichuan-inc/Baichuan2) | 4k | Second version of Baichuan 7-13B (released 9.6) |
-| [RAGFlow](https://github.com/infiniflow/ragflow) | 8.7k | Popular RAG framework |
-| fastllm | 3.1k | Large model acceleration/quantization |
-| Awesome-Prompt-Engineering | 3.4k | Collection of prompt engineering resources |
-| PaddleNLP | 11.6k | Baidu's general-purpose NLP framework |
-| Pycaret | 8.6k | Top-tier automated machine learning framework |
-| AutoX | - | Automated machine learning |
-| [ProG](https://github.com/sheldonresearch/ProG/tree/main) | - | Graph neural network framework |
-| ailabx (getee) | - | Quantitative finance |
-| torchlm | - | PyTorch-based library for machine learning |
+
 
 
 The initiated projects mainly include large model training and large model code analysis (line by line).   
