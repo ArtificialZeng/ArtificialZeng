@@ -13,6 +13,7 @@
 | <img src="https://camo.githubusercontent.com/19694a747faa4c55cbdb1cab99086099c6cf961930712f87ab3469e9bf706a4f/68747470733a2f2f68756767696e67666163652e636f2f64617461736574732f68756767696e67666163652f646f63756d656e746174696f6e2d696d616765732f7261772f6d61696e2f7472616e73666f726d6572732d6c6f676f2d6c696768742e737667" width="100" height="40"> | [transformers](https://github.com/huggingface/transformers) | ![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/transformers?style=social) | 自然语言理解的基础框架 |
 | ![](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white) | [Qwen](https://github.com/QwenLM/Qwen) | ![GitHub Repo stars](https://img.shields.io/github/stars/QwenLM/Qwen?style=social) | 阿里7B/14B SOTA聊天项目 |
 | <img src="https://avatars.githubusercontent.com/u/136167093?s=200&v=4" width="100" height="40"> | [Baichuan2](https://github.com/baichuan-inc/Baichuan2) | ![GitHub Repo stars](https://img.shields.io/github/stars/baichuan-inc/Baichuan2?style=social) | 百川智能第二代7-13B（9.6发布） |
+| ![](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white) | [swift](https://github.com/modelscope/swift) | ![GitHub Repo stars](https://img.shields.io/github/stars/modelscope/swift?style=social) | 阿里通义千问实验室官方出品训练框架，支持35+LLM/MLM |
 | <img src="https://github.com/infiniflow/ragflow/blob/main/web/src/assets/logo-with-text.png" width="100" height="40"> | [RAGFlow](https://github.com/infiniflow/ragflow) | ![GitHub Repo stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=social) | RAG框架，近1万星 |
 | ![FastLLM Logo][] | [fastllm](https://github.com/ztxz16/fastllm) | ![GitHub Repo stars](https://img.shields.io/github/stars/ztxz16/fastllm?style=social) | 大模型加速/量化 |
 | ![Promptslab Logo][] | [Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) | ![GitHub Repo stars](https://img.shields.io/github/stars/promptslab/Awesome-Prompt-Engineering?style=social) | 提示工程集合 |
@@ -21,6 +22,7 @@
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/tree/main/logo_file/4_Paradigm.png" width="100" height="40"> | [AutoX](https://github.com/4paradigm/AutoX) | ![GitHub Repo stars](https://img.shields.io/github/stars/4paradigm/AutoX?style=social) | 自动化机器学习 |
 | ![ProG Logo][] | [ProG](https://github.com/sheldonresearch/ProG) | ![GitHub Repo stars](https://img.shields.io/github/stars/sheldonresearch/ProG?style=social) | 图神经网络框架 |
 | ![TorchLM Logo][] | [torchlm](https://github.com/DefTruth/torchlm) | ![GitHub Repo stars](https://img.shields.io/github/stars/DefTruth/torchlm?style=social) | Torch系列框架 |
+| **Total** | | **:star:215.3k** |
 
 
 
@@ -39,7 +41,7 @@
 | [AutoX](https://github.com/4paradigm/AutoX) | Automated machine learning | ![GitHub Repo stars](https://img.shields.io/github/stars/4paradigm/AutoX?style=social) |
 | [ProG](https://github.com/sheldonresearch/ProG) | Graph neural network framework | ![GitHub Repo stars](https://img.shields.io/github/stars/sheldonresearch/ProG?style=social) |
 | [torchlm](https://github.com/DefTruth/torchlm) | Torch-based framework | ![GitHub Repo stars](https://img.shields.io/github/stars/DefTruth/torchlm?style=social) |
-| **Total** | | **:star:212.7k** |
+| **Total** | | **:star:215.3k** |
 
 
 
