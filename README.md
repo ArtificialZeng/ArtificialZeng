@@ -23,7 +23,7 @@
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/4_paradigm_logo.png" width="110" height="50"> | [AutoX](https://github.com/4paradigm/AutoX) | ![GitHub Repo stars](https://img.shields.io/github/stars/4paradigm/AutoX?style=social) | 第四范式出品自动化机器学习框架 |
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/CUHK_logo.png" width="120" height="40"> | [ProG](https://github.com/sheldonresearch/ProG) | ![GitHub Repo stars](https://img.shields.io/github/stars/sheldonresearch/ProG?style=social) | 图神经/图提示网络统一框架(2023 KDD Best Paper) |
 | ![TorchLM Logo][] | [torchlm](https://github.com/DefTruth/torchlm) | ![GitHub Repo stars](https://img.shields.io/github/stars/DefTruth/torchlm?style=social) | Torch人脸/关键点系列框架 |
-| **Total** | | **:star:215.3k** |
+| **Total** | | **:star:218.8k** |
 
 
 
@@ -42,7 +42,7 @@
 | [AutoX](https://github.com/4paradigm/AutoX) | Automated machine learning | ![GitHub Repo stars](https://img.shields.io/github/stars/4paradigm/AutoX?style=social) |
 | [ProG](https://github.com/sheldonresearch/ProG) | Graph neural network framework | ![GitHub Repo stars](https://img.shields.io/github/stars/sheldonresearch/ProG?style=social) |
 | [torchlm](https://github.com/DefTruth/torchlm) | Torch-based framework | ![GitHub Repo stars](https://img.shields.io/github/stars/DefTruth/torchlm?style=social) |
-| **Total** | | **:star:215.3k** |
+| **Total** | | **:star:218.8k** |
 
 
 
