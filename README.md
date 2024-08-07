@@ -33,7 +33,14 @@
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/4_paradigm_logo.png" width="110" height="50"> | [AutoX](https://github.com/4paradigm/AutoX) | ![GitHub Repo stars](https://img.shields.io/github/stars/4paradigm/AutoX?style=social) | 第四范式出品自动化机器学习框架 |
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/CUHK_logo.png" width="120" height="40"> | [ProG](https://github.com/sheldonresearch/ProG) | ![GitHub Repo stars](https://img.shields.io/github/stars/sheldonresearch/ProG?style=social) | 图神经/图提示网络统一框架(2023 KDD Best Paper) |
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/DefTruth.png" width="100" height="40"> | [torchlm](https://github.com/DefTruth/torchlm) | ![GitHub Repo stars](https://img.shields.io/github/stars/DefTruth/torchlm?style=social) | Torch人脸/关键点系列框架 |
-| **Total** | | **:star:224.0k** |
+| **Total** | | **:star:224.0k** |  
+
+### 已被合并PR但不是main分支：  
+因为各种各样的原因，没有被合并到主分支，但已成功被merge PR.
+| Company | Project | Stars | Description |
+|---------|---------|-------|-------------|
+| <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/shanghai_ai_logo.png" width="120" height="60"> | [InternVL](https://github.com/OpenGVLab/InternVL) | ![GitHub Repo stars](https://img.shields.io/github/stars/OpenGVLab/InternVL?style=social) | 世界最强开源多模态大模型 |  
+|  | [DeepCTR](https://github.com/shenweichen/DeepCTR) | ![GitHub Repo stars](https://img.shields.io/github/stars/shenweichen/DeepCTR?style=social) | 推荐系统顶级框架 |  
 
 
 
