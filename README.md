@@ -26,6 +26,7 @@
 | <img src="https://camo.githubusercontent.com/19694a747faa4c55cbdb1cab99086099c6cf961930712f87ab3469e9bf706a4f/68747470733a2f2f68756767696e67666163652e636f2f64617461736574732f68756767696e67666163652f646f63756d656e746174696f6e2d696d616765732f7261772f6d61696e2f7472616e73666f726d6572732d6c6f676f2d6c696768742e737667" width="100" height="50"> | [transformers](https://github.com/huggingface/transformers) | ![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/transformers?style=social) | 自然语言理解的基础框架 |  
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/baidu_logo.png" width="100" height="40"> | [PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) | ![GitHub Repo stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleNLP?style=social) | 百度通用基础NLP框架 |
 | **## 大模型检索增强RAG ##**  |
+|  | [dify](https://github.com/langgenius/dify) | ![GitHub Repo stars](https://img.shields.io/github/stars/langgenius/dify?style=social) | LLM app开发、RAG框架 |
 | <img src="https://github.com/infiniflow/ragflow/blob/main/web/src/assets/logo-with-text.png" width="100" height="40"> | [RAGFlow](https://github.com/infiniflow/ragflow) | ![GitHub Repo stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=social) | 顶级RAG框架 |
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/PromptsLab_logo.png" width="120" height="40"> | [Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) | ![GitHub Repo stars](https://img.shields.io/github/stars/promptslab/Awesome-Prompt-Engineering?style=social) | 提示工程集合 |
 | **### 机器学习与其他 ###**  |
@@ -39,6 +40,7 @@
 因为各种各样的原因，没有被合并到主分支，但已成功被merge PR.
 | Company | Project | Stars | Description |
 |---------|---------|-------|-------------|
+|  | [ChatTTS](https://github.com/2noise/ChatTTS) | ![GitHub Repo stars](https://img.shields.io/github/stars/2noise/ChatTTS?style=social) | 语音ChatGPT |  
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/shanghai_ai_logo.png" width="120" height="60"> | [InternVL](https://github.com/OpenGVLab/InternVL) | ![GitHub Repo stars](https://img.shields.io/github/stars/OpenGVLab/InternVL?style=social) | 世界最强开源多模态大模型 |  
 |  | [DeepCTR](https://github.com/shenweichen/DeepCTR) | ![GitHub Repo stars](https://img.shields.io/github/stars/shenweichen/DeepCTR?style=social) | 推荐系统顶级框架 |  
 
