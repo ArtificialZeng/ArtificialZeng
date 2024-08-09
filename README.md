@@ -46,6 +46,7 @@
 |  | [ChatTTS](https://github.com/2noise/ChatTTS) | ![GitHub Repo stars](https://img.shields.io/github/stars/2noise/ChatTTS?style=social) | 语音ChatGPT |  
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/shanghai_ai_logo.png" width="120" height="60"> | [InternVL](https://github.com/OpenGVLab/InternVL) | ![GitHub Repo stars](https://img.shields.io/github/stars/OpenGVLab/InternVL?style=social) | 世界最强开源多模态大模型 |  
 |  | [DeepCTR](https://github.com/shenweichen/DeepCTR) | ![GitHub Repo stars](https://img.shields.io/github/stars/shenweichen/DeepCTR?style=social) | 推荐系统顶级框架 |  
+|  | [hummingbot](https://github.com/hummingbot/hummingbot) | ![GitHub Repo stars](https://img.shields.io/github/stars/hummingbot/hummingbot?style=social) | Python语言最快的量化交易框架 |  
 
 
 
