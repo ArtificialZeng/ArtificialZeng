@@ -16,12 +16,12 @@
 | ![](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white) | [Qwen](https://github.com/QwenLM/Qwen) | ![GitHub Repo stars](https://img.shields.io/github/stars/QwenLM/Qwen?style=social) | 阿里7B/14B SOTA聊天LLM项目 |
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/zhipu_logo.png" width="120" height="50"> | [GLM-4](https://github.com/THUDM/GLM-4) | ![GitHub Repo stars](https://img.shields.io/github/stars/THUDM/GLM-4?style=social) | 清华智谱第 4 代基模型/多模态 |
 | **### 多模态大模型 ###**  |
-| <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/shanghai_ai_logo.png" width="120" height="60"> | [InternVL](https://github.com/OpenGVLab/InternVL) | ![GitHub Repo stars](https://img.shields.io/github/stars/OpenGVLab/InternVL?style=social) | 世界最强开源多模态大模型 |  
+| <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/shanghai_ai_logo.png" width="130" height="50"> | [InternVL](https://github.com/OpenGVLab/InternVL) | ![GitHub Repo stars](https://img.shields.io/github/stars/OpenGVLab/InternVL?style=social) | 世界最强开源多模态大模型 |  
 |  | [awesome-text-to-video](https://github.com/jianzhnie/awesome-text-to-video) | ![GitHub Repo stars](https://img.shields.io/github/stars/jianzhnie/awesome-text-to-video?style=social) | text-to-video相关资料 | 
 | **### 大模型微调框架 ###**  |
 | ![](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white) | [swift](https://github.com/modelscope/swift) | ![GitHub Repo stars](https://img.shields.io/github/stars/modelscope/swift?style=social) | 阿里通义千问实验室官方出品训练框架，支持35+LLM/MLM |  
 | **## 大模型部署+量化 ##**  |
-| <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/shanghai_ai_logo.png" width="120" height="60"> | [lmdeploy](https://github.com/InternLM/lmdeploy) | ![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/lmdeploy?style=social) | 上海人工智能实验室出品的大模型部署框架 |  
+| <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/shanghai_ai_logo.png" width="130" height="50"> | [lmdeploy](https://github.com/InternLM/lmdeploy) | ![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/lmdeploy?style=social) | 上海人工智能实验室出品的大模型部署框架 |  
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/fastllm_logo.png" width="100" height="40"> | [fastllm](https://github.com/ztxz16/fastllm) | ![GitHub Repo stars](https://img.shields.io/github/stars/ztxz16/fastllm?style=social) | 大模型加速/量化 |
 |  | [inference](https://github.com/xorbitsai/inference) | ![GitHub Repo stars](https://img.shields.io/github/stars/xorbitsai/inference?style=social) | 大模型部署、推理工具 |
 | **### NLP基础框架 ###**  |
@@ -32,7 +32,7 @@
 |  | [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) | ![GitHub Repo stars](https://img.shields.io/github/stars/chatchat-space/Langchain-Chatchat?style=social) | LLM Agent + RAG开发框架 |
 | <img src="https://github.com/infiniflow/ragflow/blob/main/web/src/assets/logo-with-text.png" width="100" height="40"> | [RAGFlow](https://github.com/infiniflow/ragflow) | ![GitHub Repo stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=social) | 顶级RAG框架 |
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/shanghai_ai_logo.png" width="130" height="50"> | [MindSearch](https://github.com/InternLM/MindSearch) | ![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/MindSearch?style=social) | 上海人工智能实验室出品的RAG搜索框架 |
-|  | [Semantic Kernel](https://github.com/microsoft/semantic-kernel) | ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/semantic-kernel?style=social) | LLM apps快速开发 |
+| <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/microsoft_logo.png" width="100" height="40"> | [Semantic Kernel](https://github.com/microsoft/semantic-kernel) | ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/semantic-kernel?style=social) | LLM apps快速开发 |
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/PromptsLab_logo.png" width="120" height="40"> | [Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) | ![GitHub Repo stars](https://img.shields.io/github/stars/promptslab/Awesome-Prompt-Engineering?style=social) | 提示工程集合 |
 | **### 机器学习与其他 ###**  |
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/pycaret_logo.png" width="120" height="30"> | [Pycaret](https://github.com/pycaret/pycaret) | ![GitHub Repo stars](https://img.shields.io/github/stars/pycaret/pycaret?style=social) | 顶级自动化机器学习框架 |
