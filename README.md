@@ -8,8 +8,8 @@
 [Baichuan微调训练](https://github.com/ArtificialZeng/Baichuan-Chat-Tuning)       *** [百川微调训练源码解析](https://github.com/ArtificialZeng/Baichuan-Qwen-Llama-tuning-Explained)  
 [ChatGLM2-6B-Explained](https://github.com/ArtificialZeng/ChatGLM2-6B-Explained) ***  [ChatGLM-Efficient-Tuning-Explained](https://github.com/ArtificialZeng/ChatGLM-Efficient-Tuning-Explained)  
 ## 我贡献的项目：
-| Company | Project | Stars | Description |
-|---------|---------|-------|-------------|
+| Company | Project | Stars | Description |      Version     |
+|---------|---------|-------|-------------|------------------|
 | **### 大语言模型 ###**  |
 | ![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) | [llama3](https://github.com/meta-llama/llama3) | ![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/llama3?style=social) | Meta的最强开源模型 |  
 | <img src="https://avatars.githubusercontent.com/u/136167093?s=200&v=4" width="100" height="40"> | [Baichuan2](https://github.com/baichuan-inc/Baichuan2) | ![GitHub Repo stars](https://img.shields.io/github/stars/baichuan-inc/Baichuan2?style=social) | 百川智能第二代7-13B（9.6发布） |  
@@ -26,7 +26,7 @@
 | ![](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white) | [swift](https://github.com/modelscope/swift) | ![GitHub Repo stars](https://img.shields.io/github/stars/modelscope/swift?style=social) | 阿里通义千问实验室官方出品多模态训练框架，支持35+LLM/MLM |  
 | **## 大模型部署+量化 ##**  |
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/shanghai_ai_logo.png" width="130" height="50"> | [lmdeploy](https://github.com/InternLM/lmdeploy) | ![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/lmdeploy?style=social) | 上海人工智能实验室出品的大模型部署框架 |  
-| <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/inference_logo.png" width="120" height="60"> | [inference](https://github.com/xorbitsai/inference) | ![GitHub Repo stars](https://img.shields.io/github/stars/xorbitsai/inference?style=social) | 大模型部署、推理工具 |
+| <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/inference_logo.png" width="120" height="60"> | [inference](https://github.com/xorbitsai/inference) | ![GitHub Repo stars](https://img.shields.io/github/stars/xorbitsai/inference?style=social) | 大模型部署、推理工具 | <span style="white-space: nowrap;">[0.14.1](https://mygit.osfipin.com/release/169489927) [24-08-09]</span> |
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/fastllm_logo.png" width="100" height="40"> | [fastllm](https://github.com/ztxz16/fastllm) | ![GitHub Repo stars](https://img.shields.io/github/stars/ztxz16/fastllm?style=social) | 大模型加速/量化 |
 | **### NLP基础框架 ###**  |
 | <img src="https://camo.githubusercontent.com/19694a747faa4c55cbdb1cab99086099c6cf961930712f87ab3469e9bf706a4f/68747470733a2f2f68756767696e67666163652e636f2f64617461736574732f68756767696e67666163652f646f63756d656e746174696f6e2d696d616765732f7261772f6d61696e2f7472616e73666f726d6572732d6c6f676f2d6c696768742e737667" width="100" height="50"> | [transformers](https://github.com/huggingface/transformers) | ![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/transformers?style=social) | 自然语言理解的基础框架 |  
@@ -38,6 +38,10 @@
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/shanghai_ai_logo.png" width="130" height="50"> | [MindSearch](https://github.com/InternLM/MindSearch) | ![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/MindSearch?style=social) | 上海人工智能实验室出品的RAG搜索框架 |
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/microsoft_logo.png" width="120" height="70"> | [Semantic Kernel](https://github.com/microsoft/semantic-kernel) | ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/semantic-kernel?style=social) | LLM apps快速开发 |
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/PromptsLab_logo.png" width="120" height="40"> | [Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) | ![GitHub Repo stars](https://img.shields.io/github/stars/promptslab/Awesome-Prompt-Engineering?style=social) | 提示工程集合 |
+| **### 量化金融 ###**  |
+|  | [hummingbot](https://github.com/hummingbot/hummingbot) | ![GitHub Repo stars](https://img.shields.io/github/stars/hummingbot/hummingbot?style=social) | Python语言最快的量化交易框架 |  
+| **### 推荐系统 ###**  |
+|  | [DeepCTR](https://github.com/shenweichen/DeepCTR) | ![GitHub Repo stars](https://img.shields.io/github/stars/shenweichen/DeepCTR?style=social) | 推荐系统顶级框架 | <div align="center">[0.9.2](https://github.com/shenweichen/DeepCTR/releases/tag/v0.9.2)[22-10-16]</div> | | 
 | **### 机器学习与其他 ###**  |
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/pycaret_logo.png" width="120" height="30"> | [Pycaret](https://github.com/pycaret/pycaret) | ![GitHub Repo stars](https://img.shields.io/github/stars/pycaret/pycaret?style=social) | 顶级自动化机器学习框架 |
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/4_paradigm_logo.png" width="110" height="50"> | [AutoX](https://github.com/4paradigm/AutoX) | ![GitHub Repo stars](https://img.shields.io/github/stars/4paradigm/AutoX?style=social) | 第四范式出品自动化机器学习框架 |
@@ -51,8 +55,7 @@
 |---------|---------|-------|-------------|
 |  | [ChatTTS](https://github.com/2noise/ChatTTS) | ![GitHub Repo stars](https://img.shields.io/github/stars/2noise/ChatTTS?style=social) | 语音ChatGPT |  
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/shanghai_ai_logo.png" width="120" height="60"> | [InternVL](https://github.com/OpenGVLab/InternVL) | ![GitHub Repo stars](https://img.shields.io/github/stars/OpenGVLab/InternVL?style=social) | 世界最强开源多模态大模型 |  
-|  | [DeepCTR](https://github.com/shenweichen/DeepCTR) | ![GitHub Repo stars](https://img.shields.io/github/stars/shenweichen/DeepCTR?style=social) | 推荐系统顶级框架 |  
-|  | [hummingbot](https://github.com/hummingbot/hummingbot) | ![GitHub Repo stars](https://img.shields.io/github/stars/hummingbot/hummingbot?style=social) | Python语言最快的量化交易框架 |  
+
 
 
 
