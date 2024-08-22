@@ -18,8 +18,10 @@
 | **### 多模态大模型 ###**  |
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/shanghai_ai_logo.png" width="130" height="50"> | [InternVL](https://github.com/OpenGVLab/InternVL) | ![GitHub Repo stars](https://img.shields.io/github/stars/OpenGVLab/InternVL?style=social) | 世界最强开源多模态大模型 |  
 |  | [awesome-text-to-video](https://github.com/jianzhnie/awesome-text-to-video) | ![GitHub Repo stars](https://img.shields.io/github/stars/jianzhnie/awesome-text-to-video?style=social) | text-to-video相关资料 | 
+| **### 文生图模型 - AIGC ###**  |
+|  | [flux](https://github.com/black-forest-labs/flux) | ![GitHub Repo stars](https://img.shields.io/github/stars/black-forest-labs/flux) | AIGC顶级框架 | 
 | **### 大模型微调框架 ###**  |
-| ![](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white) | [swift](https://github.com/modelscope/swift) | ![GitHub Repo stars](https://img.shields.io/github/stars/modelscope/swift?style=social) | 阿里通义千问实验室官方出品训练框架，支持35+LLM/MLM |  
+| ![](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white) | [swift](https://github.com/modelscope/swift) | ![GitHub Repo stars](https://img.shields.io/github/stars/modelscope/swift?style=social) | 阿里通义千问实验室官方出品多模态训练框架，支持35+LLM/MLM |  
 | **## 大模型部署+量化 ##**  |
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/shanghai_ai_logo.png" width="130" height="50"> | [lmdeploy](https://github.com/InternLM/lmdeploy) | ![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/lmdeploy?style=social) | 上海人工智能实验室出品的大模型部署框架 |  
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/fastllm_logo.png" width="100" height="40"> | [fastllm](https://github.com/ztxz16/fastllm) | ![GitHub Repo stars](https://img.shields.io/github/stars/ztxz16/fastllm?style=social) | 大模型加速/量化 |
