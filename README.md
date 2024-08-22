@@ -15,6 +15,8 @@
 | <img src="https://avatars.githubusercontent.com/u/136167093?s=200&v=4" width="100" height="40"> | [Baichuan2](https://github.com/baichuan-inc/Baichuan2) | ![GitHub Repo stars](https://img.shields.io/github/stars/baichuan-inc/Baichuan2?style=social) | 百川智能第二代7-13B（9.6发布） |  
 | ![](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white) | [Qwen](https://github.com/QwenLM/Qwen) | ![GitHub Repo stars](https://img.shields.io/github/stars/QwenLM/Qwen?style=social) | 阿里7B/14B SOTA聊天LLM项目 |
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/zhipu_logo.png" width="120" height="50"> | [GLM-4](https://github.com/THUDM/GLM-4) | ![GitHub Repo stars](https://img.shields.io/github/stars/THUDM/GLM-4?style=social) | 清华智谱第 4 代基模型/多模态 |
+| **### MOE架构 ###**  |
+| <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/zhipu_logo.png" width="120" height="50"> | [Yuan2.0-M32](https://github.com/IEIT-Yuan/Yuan2.0-M32) | ![GitHub Repo stars](https://img.shields.io/github/stars/IEIT-Yuan/Yuan2.0-M32?style=social) | 总参数40B激活参数3.7B，同等激活参数最强MOE架构 |
 | **### 多模态大模型 ###**  |
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/shanghai_ai_logo.png" width="130" height="50"> | [InternVL](https://github.com/OpenGVLab/InternVL) | ![GitHub Repo stars](https://img.shields.io/github/stars/OpenGVLab/InternVL?style=social) | 世界最强开源多模态大模型 |  
 |  | [awesome-text-to-video](https://github.com/jianzhnie/awesome-text-to-video) | ![GitHub Repo stars](https://img.shields.io/github/stars/jianzhnie/awesome-text-to-video?style=social) | text-to-video相关资料 | 
