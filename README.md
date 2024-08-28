@@ -26,6 +26,7 @@
 | **### 大模型微调框架 ###**  |
 | ![](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white) | [swift](https://github.com/modelscope/swift) | ![GitHub Repo stars](https://img.shields.io/github/stars/modelscope/swift?style=social) | 阿里通义千问实验室官方出品多模态训练框架，支持35+LLM/MLM |  
 | **## 大模型部署+量化 ##**  |
+| <img src="/shanghai_ai_logo.png" width="130" height="50"> | [SGLang](https://github.com/sgl-project/sglang) | ![GitHub Repo stars](https://img.shields.io/github/stars/sgl-project/sglang?style=social) | 世界效率最高、最快的LLM、VLM部署框架 |  
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/shanghai_ai_logo.png" width="130" height="50"> | [lmdeploy](https://github.com/InternLM/lmdeploy) | ![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/lmdeploy?style=social) | 上海人工智能实验室出品的大模型部署框架 |  
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/inference_logo.png" width="120" height="60"> | [inference](https://github.com/xorbitsai/inference) | ![GitHub Repo stars](https://img.shields.io/github/stars/xorbitsai/inference?style=social) | 大模型部署、推理工具 | <span style="white-space: nowrap;">[0.14.1](https://mygit.osfipin.com/release/169489927) [24-08-09]</span> |
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/fastllm_logo.png" width="100" height="40"> | [fastllm](https://github.com/ztxz16/fastllm) | ![GitHub Repo stars](https://img.shields.io/github/stars/ztxz16/fastllm?style=social) | 大模型加速/量化 |
