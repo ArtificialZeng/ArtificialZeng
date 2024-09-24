@@ -20,10 +20,10 @@
 | **### 多模态大模型 ###**  |
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/shanghai_ai_logo.png" width="130" height="50"> | [InternVL](https://github.com/OpenGVLab/InternVL) | ![GitHub Repo stars](https://img.shields.io/github/stars/OpenGVLab/InternVL?style=social) | 世界最强开源多模态大模型 |  
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/model_best_logo.jpeg" width="140" height="50"> | [MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) | ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/MiniCPM-V?style=social) | 世界最强开源端侧多模态大模型 - 小钢炮 |  
-|  | [awesome-text-to-video](https://github.com/jianzhnie/awesome-text-to-video) | ![GitHub Repo stars](https://img.shields.io/github/stars/jianzhnie/awesome-text-to-video?style=social) | text-to-video相关资料 | 
 | **### 文生图/视频模型 - AIGC ###**  |
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/black_forest_logo.png" width="130" height="50"> | [flux](https://github.com/black-forest-labs/flux) | ![GitHub Repo stars](https://img.shields.io/github/stars/black-forest-labs/flux) | AIGC顶级框架 | 
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/zhipu_logo.png" width="120" height="50"><img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/tsinghua_univ_logo.png" width="120" height="40"> | [CogVideo](https://github.com/THUDM/CogVideo) | ![GitHub Repo stars](https://img.shields.io/github/stars/THUDM/CogVideo) | 智谱文生视频顶级框架 | 
+|  | [awesome-text-to-video](https://github.com/jianzhnie/awesome-text-to-video) | ![GitHub Repo stars](https://img.shields.io/github/stars/jianzhnie/awesome-text-to-video?style=social) | text-to-video相关资料 | 
 | **### 大模型微调框架 ###**  |
 | ![](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white) | [swift](https://github.com/modelscope/swift) | ![GitHub Repo stars](https://img.shields.io/github/stars/modelscope/swift?style=social) | 阿里通义千问实验室官方出品多模态训练框架，支持35+LLM/MLM |  
 | **## 大模型部署+量化 ##**  |
