@@ -17,6 +17,7 @@
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/zhipu_logo.png" width="120" height="50"><img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/tsinghua_univ_logo.png" width="120" height="40"> | [GLM-4](https://github.com/THUDM/GLM-4) | ![GitHub Repo stars](https://img.shields.io/github/stars/THUDM/GLM-4?style=social) | 清华智谱第 4 代基模型/多模态 |
 | **### 大语音模型 ###**  |
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/zhipu_logo.png" width="120" height="50"><img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/tsinghua_univ_logo.png" width="120" height="40"> | [GLM-4-Voice](https://github.com/THUDM/GLM-4-Voice) | ![GitHub Repo stars](https://img.shields.io/github/stars/THUDM/GLM-4-Voice?style=social) | 智谱开源的大语音模型 |  
+|  | [ChatTTS](https://github.com/2noise/ChatTTS) | ![GitHub Repo stars](https://img.shields.io/github/stars/2noise/ChatTTS?style=social) | 语音ChatGPT |  
 | **### MOE架构 ###**  |
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/inspur_logo.png" width="130" height="50"> | [Yuan2.0-M32](https://github.com/IEIT-Yuan/Yuan2.0-M32) | ![GitHub Repo stars](https://img.shields.io/github/stars/IEIT-Yuan/Yuan2.0-M32?style=social) | 总参数40B激活参数3.7B，同等激活参数最强MOE架构 |
 | **### 多模态大模型 ###**  |
@@ -62,7 +63,7 @@
 因为各种各样的原因，没有被合并到主分支，但已成功被merge PR.
 | Company | Project | Stars | Description |
 |---------|---------|-------|-------------|
-|  | [ChatTTS](https://github.com/2noise/ChatTTS) | ![GitHub Repo stars](https://img.shields.io/github/stars/2noise/ChatTTS?style=social) | 语音ChatGPT |  
+
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/shanghai_ai_logo.png" width="120" height="60"> | [InternVL](https://github.com/OpenGVLab/InternVL) | ![GitHub Repo stars](https://img.shields.io/github/stars/OpenGVLab/InternVL?style=social) | 世界最强开源多模态大模型 |  
 
 
