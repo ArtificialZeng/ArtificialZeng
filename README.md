@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Shawn. Currently working as a LLM practitioner.  
 [English](./readme_en.md) | [简体中文](README.md)  
-![](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)：ArtificialZeng  <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/csdn_logo.png" width="100" height="40"> 超260w浏览CSDN: [AI生成曾小健](https://blog.csdn.net/sinat_37574187) 全网技术博客超300w浏览
+![](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)：ArtificialZeng  <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/csdn_logo.png" width="100" height="40"> 超270w浏览CSDN: [AI生成曾小健](https://blog.csdn.net/sinat_37574187) 全网技术博客超310w浏览
 
 ![](https://github-readme-stats.vercel.app/api?username=ArtificialZeng&show_icons=true&theme=transparent)
 
