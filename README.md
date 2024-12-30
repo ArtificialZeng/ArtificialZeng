@@ -18,6 +18,7 @@
 | **### 大语音模型 ###**  |
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/zhipu_logo.png" width="120" height="50"><img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/tsinghua_univ_logo.png" width="120" height="40"> | [GLM-4-Voice](https://github.com/THUDM/GLM-4-Voice) | ![GitHub Repo stars](https://img.shields.io/github/stars/THUDM/GLM-4-Voice?style=social) | 智谱开源的大语音模型 |  
 |  | [ChatTTS](https://github.com/2noise/ChatTTS) | ![GitHub Repo stars](https://img.shields.io/github/stars/2noise/ChatTTS?style=social) | 语音ChatGPT |  
+|  | [CosyVoice](https://github.com/FunAudioLLM/CosyVoice) | ![GitHub Repo stars](https://img.shields.io/github/stars/FunAudioLLM/CosyVoice?style=social) | 语音TTS、声音克隆 | 
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/funasr_damo.jpg" width="120" height="50"> | [FunASR](https://github.com/modelscope/FunASR) | ![GitHub Repo stars](https://img.shields.io/github/stars/modelscope/FunASR?style=social) | 语音识别ASR、语音活动识别 | 
 | **### MOE架构 ###**  |
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/inspur_logo.png" width="130" height="50"> | [Yuan2.0-M32](https://github.com/IEIT-Yuan/Yuan2.0-M32) | ![GitHub Repo stars](https://img.shields.io/github/stars/IEIT-Yuan/Yuan2.0-M32?style=social) | 总参数40B激活参数3.7B，同等激活参数最强MOE架构 |
