@@ -62,7 +62,7 @@
 |  | [HDLTex](https://github.com/kk7nc/HDLTex) | ![GitHub Repo stars](https://img.shields.io/github/stars/kk7nc/HDLTex?style=social) | 层次化文本分类 |
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/DefTruth.png" width="100" height="40"> | [torchlm](https://github.com/DefTruth/torchlm) | ![GitHub Repo stars](https://img.shields.io/github/stars/DefTruth/torchlm?style=social) | Torch人脸/关键点系列框架 |
 | **### 应用开发框架 ###**  |
-|  | [flutter](https://github.com/flutter/flutter) | ![GitHub Repo stars](https://img.shields.io/github/stars/flutter/flutter?style=social) | Google顶级多端iOS/Android开发框架 |
+| <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/Google_logo.png" width="110" height="70"> | [flutter](https://github.com/flutter/flutter) | ![GitHub Repo stars](https://img.shields.io/github/stars/flutter/flutter?style=social) | Google顶级多端iOS/Android开发框架 |
 | **Total** | | **:star:818.98k** |  
 
 ### 已被合并PR但不是main分支：  
