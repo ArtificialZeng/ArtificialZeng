@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Shawn. Currently working as a LLM practitioner.  
 [English](./readme_en.md) | [简体中文](README.md)  
-![](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)：ArtificialZeng  <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/csdn_logo.png" width="100" height="40"> CSDN全站70强博客、总超600w浏览。CSDN: [强化学习曾小健](https://blog.csdn.net/sinat_37574187)、 [强化学习曾小健2](https://blog.csdn.net/weixin_39756314?spm=1000.2115.3001.5343)全网技术博客(CSDN id：强化学习曾小健、强化学习曾小健2、强化学习曾小健3、我是曾小健机器人具身、曾小健(金融号))总超600w浏览、GitHub参与总贡献星数超80w star
+![](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)：ArtificialZeng  <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/csdn_logo.png" width="100" height="40"> CSDN全站70强博客、总超700w浏览。CSDN: [巨身机器人曾小健](https://blog.csdn.net/sinat_37574187)、 [强化学习曾小健2](https://blog.csdn.net/weixin_39756314?spm=1000.2115.3001.5343)全网技术博客(CSDN id：强化学习曾小健、强化学习曾小健2、强化学习曾小健3、我是曾小健机器人具身、曾小健(金融号))总超600w浏览、GitHub参与总贡献星数超80w star
 
 ![](https://github-readme-stats.vercel.app/api?username=ArtificialZeng&show_icons=true&theme=transparent)
 
