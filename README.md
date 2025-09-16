@@ -10,7 +10,7 @@
 ## 我贡献的项目：
 | Company | Project | Stars | Description |      Version     |
 |---------|---------|-------|-------------|------------------|
-| **### 巨身机器人 ###**  |
+| ## 巨身机器人 |
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/Xlerobot_logo.png" width="120" height="100"> | [XLeRobot](https://github.com/Vector-Wangel/XLeRobot) | ![GitHub Repo stars](https://img.shields.io/github/stars/Vector-Wangel/XLeRobot?style=social) | 基于Stanford ALOHA的超低成本双臂轮式巨身方案 |
 | **### 大语言模型 ###**  |
 | ![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) | [llama3](https://github.com/meta-llama/llama3) | ![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/llama3?style=social) | Meta的最强开源模型 |  
