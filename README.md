@@ -73,8 +73,6 @@
 | Company | Project | Stars | Description |
 |---------|---------|-------|-------------|
 
-| <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/shanghai_ai_logo.png" width="120" height="60"> | [InternVL](https://github.com/OpenGVLab/InternVL) | ![GitHub Repo stars](https://img.shields.io/github/stars/OpenGVLab/InternVL?style=social) | 世界最强开源多模态大模型 |  
-
 
 
 
