@@ -9,23 +9,23 @@
 [ChatGLM2-6B-Explained](https://github.com/ArtificialZeng/ChatGLM2-6B-Explained) ***  [ChatGLM-Efficient-Tuning-Explained](https://github.com/ArtificialZeng/ChatGLM-Efficient-Tuning-Explained)  
 ## 我贡献的项目：
 | Company | Project | Stars | Description |      Version     |
-|---------|---------|-------|-------------|------------------|
-| <h3 align="center">巨身机器人</h3> |
+|:--:|---|---|---|---|
+| <h3 align="center">具身机器人</h3> |
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/Xlerobot_logo.png" width="120" height="100"> | [XLeRobot](https://github.com/Vector-Wangel/XLeRobot) | ![GitHub Repo stars](https://img.shields.io/github/stars/Vector-Wangel/XLeRobot?style=social) | 基于Stanford ALOHA的超低成本双臂轮式巨身方案 |
-| <h3 align="center">大语言模型</h3>  |
+| <h3 align="center">大语言模型</h3>  | 
 | ![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) | [llama3](https://github.com/meta-llama/llama3) | ![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/llama3?style=social) | Meta的最强开源模型 |  
 | <img src="https://avatars.githubusercontent.com/u/136167093?s=200&v=4" width="100" height="40"> | [Baichuan2](https://github.com/baichuan-inc/Baichuan2) | ![GitHub Repo stars](https://img.shields.io/github/stars/baichuan-inc/Baichuan2?style=social) | 百川智能第二代7-13B（9.6发布） |  
 | ![](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white) | [Qwen](https://github.com/QwenLM/Qwen) | ![GitHub Repo stars](https://img.shields.io/github/stars/QwenLM/Qwen?style=social) | 阿里7B/14B SOTA聊天LLM项目 |
 | <img src="https://avatars.githubusercontent.com/u/136167093?s=200&v=4" width="100" height="40"> | [Baichuan-M2-32B](https://github.com/baichuan-inc/Baichuan-M2-32B) | ![GitHub Repo stars](https://img.shields.io/github/stars/baichuan-inc/Baichuan-M2-32B?style=social) | 医疗模型SOTA |
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/zhipu_logo.png" width="120" height="50"><img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/tsinghua_univ_logo.png" width="120" height="40"> | [GLM-4](https://github.com/THUDM/GLM-4) | ![GitHub Repo stars](https://img.shields.io/github/stars/THUDM/GLM-4?style=social) | 清华智谱第 4 代基模型/多模态 |
-| <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/Tencent_Logo.png" width="120" height="60">| [Hunyuan-MT](https://github.com/Tencent-Hunyuan/Hunyuan-MT) | ![GitHub Repo stars](https://img.shields.io/github/stars/Tencent-Hunyuan/Hunyuan-MT?style=social) | 翻译模型SOTA |
-| **### 大语音模型 ###**  |
+| <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/Tencent_Logo.png" width="120" height="60">| [Hunyuan-MT](https://github.com/Tencent-Hunyuan/Hunyuan-MT) | ![GitHub Repo stars](https://img.shields.io/github/stars/Tencent-Hunyuan/Hunyuan-MT?style=social) | 翻译模型SOTA | 
+| <h3 align="center">MOE架构</h3>  |
+| <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/inspur_logo.png" width="130" height="50"> | [Yuan2.0-M32](https://github.com/IEIT-Yuan/Yuan2.0-M32) | ![GitHub Repo stars](https://img.shields.io/github/stars/IEIT-Yuan/Yuan2.0-M32?style=social) | 总参数40B激活参数3.7B，同等激活参数最强MOE架构 |
+| <h3 align="center">大语音模型</h3>  |
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/zhipu_logo.png" width="120" height="50"><img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/tsinghua_univ_logo.png" width="120" height="40"> | [GLM-4-Voice](https://github.com/THUDM/GLM-4-Voice) | ![GitHub Repo stars](https://img.shields.io/github/stars/THUDM/GLM-4-Voice?style=social) | 智谱开源的大语音模型 |  
 |  | [ChatTTS](https://github.com/2noise/ChatTTS) | ![GitHub Repo stars](https://img.shields.io/github/stars/2noise/ChatTTS?style=social) | 语音ChatGPT |  
 |  | [CosyVoice](https://github.com/FunAudioLLM/CosyVoice) | ![GitHub Repo stars](https://img.shields.io/github/stars/FunAudioLLM/CosyVoice?style=social) | 语音TTS、声音克隆 | 
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/funasr_damo.jpg" width="120" height="50"> | [FunASR](https://github.com/modelscope/FunASR) | ![GitHub Repo stars](https://img.shields.io/github/stars/modelscope/FunASR?style=social) | 语音识别ASR、语音活动识别 | 
-| **### MOE架构 ###**  |
-| <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/inspur_logo.png" width="130" height="50"> | [Yuan2.0-M32](https://github.com/IEIT-Yuan/Yuan2.0-M32) | ![GitHub Repo stars](https://img.shields.io/github/stars/IEIT-Yuan/Yuan2.0-M32?style=social) | 总参数40B激活参数3.7B，同等激活参数最强MOE架构 |
 | **### 多模态大模型 ###**  |
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/shanghai_ai_logo.png" width="130" height="50"> | [InternVL](https://github.com/OpenGVLab/InternVL) | ![GitHub Repo stars](https://img.shields.io/github/stars/OpenGVLab/InternVL?style=social) | 世界最强开源多模态大模型 |  
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/model_best_logo.jpeg" width="140" height="50"> | [MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) | ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/MiniCPM-V?style=social) | 世界最强开源端侧多模态大模型 - 小钢炮 |  
