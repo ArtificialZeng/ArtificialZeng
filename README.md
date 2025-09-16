@@ -11,7 +11,7 @@
 | Company | Project | Stars | Description |      Version     |
 |---------|---------|-------|-------------|------------------|
 | **### 巨身机器人 ###**  |
-|  | [XLeRobot](https://github.com/Vector-Wangel/XLeRobot) | ![GitHub Repo stars](https://img.shields.io/github/stars/Vector-Wangel/XLeRobot?style=social) | 基于Stanford ALOHA的超低成本双臂轮式巨身方案 |
+| <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/Xlerobot_logo.png" width="120" height="50"> | [XLeRobot](https://github.com/Vector-Wangel/XLeRobot) | ![GitHub Repo stars](https://img.shields.io/github/stars/Vector-Wangel/XLeRobot?style=social) | 基于Stanford ALOHA的超低成本双臂轮式巨身方案 |
 | **### 大语言模型 ###**  |
 | ![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) | [llama3](https://github.com/meta-llama/llama3) | ![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/llama3?style=social) | Meta的最强开源模型 |  
 | <img src="https://avatars.githubusercontent.com/u/136167093?s=200&v=4" width="100" height="40"> | [Baichuan2](https://github.com/baichuan-inc/Baichuan2) | ![GitHub Repo stars](https://img.shields.io/github/stars/baichuan-inc/Baichuan2?style=social) | 百川智能第二代7-13B（9.6发布） |  
