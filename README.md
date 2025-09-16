@@ -55,6 +55,7 @@
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/PromptsLab_logo.png" width="120" height="40"> | [Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) | ![GitHub Repo stars](https://img.shields.io/github/stars/promptslab/Awesome-Prompt-Engineering?style=social) | 提示工程集合 |
 | **### 量化金融 ###**  |
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/hummingbot_logo.png" width="140" height="50"> | [hummingbot](https://github.com/hummingbot/hummingbot) | ![GitHub Repo stars](https://img.shields.io/github/stars/hummingbot/hummingbot?style=social) | Python语言最快的量化交易框架 |  
+| <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/tsinghua_univ_logo.png" width="120" height="40"> | [Kronos](https://github.com/shiyu-coder/Kronos) | ![GitHub Repo stars](https://img.shields.io/github/stars/shiyu-coder/Kronos?style=social) | 清华一个专为量化打造的K线基础大模型 |
 | **### 推荐系统 ###**  |
 |  | [DeepCTR](https://github.com/shenweichen/DeepCTR) | ![GitHub Repo stars](https://img.shields.io/github/stars/shenweichen/DeepCTR?style=social) | 推荐系统顶级框架 | <div align="center">[0.9.2](https://github.com/shenweichen/DeepCTR/releases/tag/v0.9.2)[22-10-16]</div> | | 
 | **### 机器学习与其他 ###**  |
