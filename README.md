@@ -68,7 +68,7 @@
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/DefTruth.png" width="100" height="40"> | [torchlm](https://github.com/DefTruth/torchlm) | ![GitHub Repo stars](https://img.shields.io/github/stars/DefTruth/torchlm?style=social) | Torch人脸/关键点系列框架 |
 | <h3 align="center">应用开发框架</h3>  |
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/Google_logo.png" width="110" height="70"> | [flutter](https://github.com/flutter/flutter) | ![GitHub Repo stars](https://img.shields.io/github/stars/flutter/flutter?style=social) | Google顶级多端iOS/Android开发框架 |
-| **Total** | | **:star:100.01k** |  
+| **Total** | | **:star:1,000.01k** |  
 
 ### 已被合并PR但不是main分支：  
 因为各种各样的原因，没有被合并到主分支，但已成功被merge PR.
