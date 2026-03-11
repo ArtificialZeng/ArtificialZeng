@@ -12,7 +12,7 @@
 |:--:|---|---|---|---|
 | <h3 align="center">具身机器人</h3> |
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/Xlerobot_logo.png" width="120" height="100"> | [XLeRobot](https://github.com/Vector-Wangel/XLeRobot) | ![GitHub Repo stars](https://img.shields.io/github/stars/Vector-Wangel/XLeRobot?style=social) | 基于Stanford ALOHA的超低成本双臂轮式具身方案 |
-| <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/Xlerobot_logo.png" width="120" height="100"> | [Berkeley-Humanoid-Lite](https://github.com/HybridRobotics/Berkeley-Humanoid-Lite) | ![GitHub Repo stars](https://img.shields.io/github/stars/HybridRobotics/Berkeley-Humanoid-Lite?style=social) | 伯克利人形机器人具身方案 |
+| <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/ucberkeley_logo.png" width="120" height="100"> | [Berkeley-Humanoid-Lite](https://github.com/HybridRobotics/Berkeley-Humanoid-Lite) | ![GitHub Repo stars](https://img.shields.io/github/stars/HybridRobotics/Berkeley-Humanoid-Lite?style=social) | 伯克利人形机器人具身方案 |
 | <h3 align="center">强化学习</h3> |
 | <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/tsinghua_univ_logo.png" width="120" height="40"> | [slime](https://github.com/THUDM/slime) | ![GitHub Repo stars](https://img.shields.io/github/stars/THUDM/slime?style=social) | 清华强化学习Scaling Law框架、结合Megatron和SGlang |
 | <h3 align="center">大语言模型</h3>  | 
