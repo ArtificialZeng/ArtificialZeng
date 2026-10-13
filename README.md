@@ -1,5 +1,70 @@
 ### Hi there 👋 I'm Shawn. Currently working as a LLM practitioner.  
 [English](./readme_en.md) | [简体中文](README.md)  
+
+<div align="center">
+
+# ArtificialZeng
+
+**让 AI 参与发现，让成果可以复现。**
+
+AI4Science · LLM Reasoning · Reinforcement Learning · Open Source
+
+[简体中文](README.md) · [English](readme_en.md) · [Google Scholar](https://scholar.google.com/citations?user=uukwLqsAAAAJ&hl=zh-CN)
+
+</div>
+
+---
+
+## 🔬 AI4Science
+
+从数学与物理研究到历史密码解读，探索 AI 驱动的发现、验证与复现。
+
+| 方向 | 项目 | 成果与亮点 |
+| --- | --- | --- |
+| **AI4Math** | [AI Has Taste](https://github.com/ArtificialZeng/AI-Has-Taste) | **453 篇研究手稿**，涵盖证明、反例、部分结果与 AI 提出的猜想；探索从生成答案到选择研究方向。 |
+| **AI4Physics** | [PROMETHEUS-10](https://github.com/ArtificialZeng/PROMETHEUS-10) | **10 篇物理研究手稿**，结合证明搜索、反例构造与受控计算，提供可检查的代码。 |
+| **历史解密** | [History Unlocked AI](https://github.com/ArtificialZeng/history-unlocked-ai) | **11 项研究条目**；HC615 已在官方目录标记为 Solved 并署名 Zijian Zeng；最新 HC1679 部分解读附带复现检查。 |
+
+**媒体报道 · AI4Math**  
+[腾讯新闻 · 中文报道](https://news.qq.com/rain/a/20260929A05IPE00?id=20260929A05IPE00&path=a&app=news&suid=&redirect_pc=1) · [KuCoin · English coverage](https://www.kucoin.com/news/flash/ai-system-produces-453-math-research-manuscripts-including-6-ai-proposed-conjectures?lang=en_US)
+
+> 数学与物理项目中的手稿、猜想和部分结果，其验证范围与状态以各仓库说明为准。
+
+## 📄 论文与代表作
+
+[**查看完整论文列表 → Google Scholar**](https://scholar.google.com/citations?user=uukwLqsAAAAJ&hl=zh-CN)
+
+| 会议 | 代表论文 | 研究主题 |
+| --- | --- | --- |
+| **ICML** | [Multi-Layer GRPO: Enhancing Reasoning and Self-Correction in Large Language Models](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=uukwLqsAAAAJ&citation_for_view=uukwLqsAAAAJ:ufrVoPGSRksC) | 多层强化学习，提升推理与自我纠错能力。 |
+| **EMNLP** | [Differentiable Geometric Alignment for LLM Spatial Reasoning: Training-Time Symbolic Constraints, Solver-Free Inference](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=uukwLqsAAAAJ&citation_for_view=uukwLqsAAAAJ:bEWYMUwI8FkC) | 训练时引入符号约束，推理时无需求解器。 |
+| **NeurIPS (NIPS)** | [Reducing Credit Assignment Variance via Counterfactual Reasoning Paths](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=uukwLqsAAAAJ&citation_for_view=uukwLqsAAAAJ:-f6ydRqryjwC) | 通过反事实推理路径改善信用分配。 |
+
+---
+
+## 👋 关于我
+
+我是 **Shawn（曾小健 / ArtificialZeng）**，专注于大模型实践、推理与强化学习，以及 AI4Science。这里汇集我的研究项目、论文与开源工作。
+
+**技术分享** · [CSDN](https://blog.csdn.net/sinat_37574187) · [CSDN · 强化学习](https://blog.csdn.net/weixin_39756314)  
+**WeChat** · `ArtificialZeng`
+
+## 🛠️ 原创项目与源码解析
+
+| 项目 | 内容 |
+| --- | --- |
+| [Baichuan-Chat-Tuning](https://github.com/ArtificialZeng/Baichuan-Chat-Tuning) | 百川模型微调：LoRA / QLoRA。 |
+| [Baichuan-Qwen-Llama-tuning-Explained](https://github.com/ArtificialZeng/Baichuan-Qwen-Llama-tuning-Explained) | 大模型微调源码解析。 |
+| [llama3_explained](https://github.com/ArtificialZeng/llama3_explained) | Llama 3 逐行源码解析。 |
+| [Baichuan2-Explained](https://github.com/ArtificialZeng/Baichuan2-Explained) | 百川 2 源码解析。 |
+| [Qwen-Explained](https://github.com/ArtificialZeng/Qwen-Explained) | Qwen 源码解析。 |
+| [LLaMA-Factory-Explained](https://github.com/ArtificialZeng/LLaMA-Factory-Explained) | LLaMA Factory 微调框架解析。 |
+| [ChatGLM2-6B-Explained](https://github.com/ArtificialZeng/ChatGLM2-6B-Explained) | ChatGLM2 源码解析。 |
+| [ChatGLM-Efficient-Tuning-Explained](https://github.com/ArtificialZeng/ChatGLM-Efficient-Tuning-Explained) | ChatGLM 高效微调源码解析。 |
+
+## 🤝 开源贡献
+
+参与大模型、具身机器人、推理部署与开发工具等项目，贡献规模因项目而异。
 ![](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)：ArtificialZeng  <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/csdn_logo.png" width="100" height="40"> CSDN全站70强博客、总超800w浏览。CSDN: [具身机器人曾小健](https://blog.csdn.net/sinat_37574187)、 [强化学习曾小健2](https://blog.csdn.net/weixin_39756314?spm=1000.2115.3001.5343)全网技术博客(CSDN id：强化学习曾小健、强化学习曾小健2、强化学习曾小健3、我是曾小健机器人具身、曾小健(金融号))总超800w浏览、GitHub参与总贡献星数超100w star
 
 ![](https://github-readme-stats.vercel.app/api?username=ArtificialZeng&show_icons=true&theme=transparent)
