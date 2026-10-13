@@ -1,4 +1,5 @@
 ### Hi there 👋 I'm Shawn. Currently working as a LLM practitioner.  
+Contributed to projects spanning **Large Language Models (LLMs), Embodied AI and Robotics, AI Inference and Deployment, and Developer Tools**, with varying levels of involvement across projects. **WeChat** ![](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)：ArtificialZeng  <img src="https://github.com/ArtificialZeng/ArtificialZeng/blob/main/logo_file/csdn_logo.png" width="100" height="40"> Ranked among the **Top 70 Bloggers Platform-Wide**, with over **10 million cumulative views** across technical blogs, including [Embodied Robotics – Zeng Xiaojian](https://blog.csdn.net/sinat_37574187) and [Reinforcement Learning – Zeng Xiaojian 2](https://blog.csdn.net/weixin_39756314?spm=1000.2115.3001.5343). Other CSDN accounts include 强化学习曾小健, 强化学习曾小健2, 强化学习曾小健3, 我是曾小健机器人具身, and 曾小健(金融号). **GitHub:** Contributed to open-source projects with a combined total of over **1 million stars**.
 
 <div align="center">
 
