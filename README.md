@@ -27,7 +27,9 @@ AI4Science · LLM Reasoning · Reinforcement Learning · Open Source
 | **历史解密** | [History Unlocked AI](https://github.com/ArtificialZeng/history-unlocked-ai) | **11 项研究条目**；HC615 已在官方目录标记为 Solved 并署名 Zijian Zeng；最新 HC1679 部分解读附带复现检查。 |
 
 **媒体报道 · AI4Math**  
-[腾讯新闻 · 中文报道](https://news.qq.com/rain/a/20260929A05IPE00?id=20260929A05IPE00&path=a&app=news&suid=&redirect_pc=1) · [KuCoin · English coverage](https://www.kucoin.com/news/flash/ai-system-produces-453-math-research-manuscripts-including-6-ai-proposed-conjectures?lang=en_US)
+[腾讯新闻 · 中文报道 AI找出数学反例推翻论文，作者确认！453篇手稿，AI开始自己出题了](https://news.qq.com/rain/a/20260929A05IPE00?id=20260929A05IPE00&path=a&app=news&suid=&redirect_pc=1) · [KuCoin · English coverage](https://www.kucoin.com/news/flash/ai-system-produces-453-math-research-manuscripts-including-6-ai-proposed-conjectures?lang=en_US)
+[新智元 - 源码公开，AI破解冷战档案！220个符号零修改，多项历史密码成果](https://news.qq.com/rain/a/20261013A0D0B900)
+
 
 > 数学与物理项目中的手稿、猜想和部分结果，其验证范围与状态以各仓库说明为准。
 
