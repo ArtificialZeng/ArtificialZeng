@@ -23,11 +23,18 @@ AI4Science · LLM Reasoning · Reinforcement Learning · Open Source
 | 方向 | 项目 | 成果与亮点 |
 | --- | --- | --- |
 | **AI4Math** | [AI Has Taste](https://github.com/ArtificialZeng/AI-Has-Taste) | **453 篇研究手稿**，涵盖证明、反例、部分结果与 AI 提出的猜想；探索从生成答案到选择研究方向。 |
-| **AI4Physics** | [PROMETHEUS-10](https://github.com/ArtificialZeng/PROMETHEUS-10) | **10 篇物理研究手稿**，结合证明搜索、反例构造与受控计算，提供可检查的代码。 |
+| **AI4Physics** | [PROMETHEUS](https://github.com/ArtificialZeng/PROMETHEUS-10) | **10 篇物理研究手稿**，结合证明搜索、反例构造与受控计算，提供可检查的代码。 |
+| **理论计算机TCS** | [Theoretical-Computer-Science](https://github.com/ArtificialZeng/Theoretical-Computer-Science) | **理论计算机**；  |
 | **历史解密** | [History Unlocked AI](https://github.com/ArtificialZeng/history-unlocked-ai) | **11 项研究条目**；HC615 已在官方目录标记为 Solved 并署名 Zijian Zeng；最新 HC1679 部分解读附带复现检查。 |
+| **AI生物** | [AI-Biology-Lab](https://github.com/ArtificialZeng/AI-Biology-Lab) | **AI生物**； |
+| **AI感觉** | [ai-can-feel](https://github.com/ArtificialZeng/ai-can-feel) | **AI感觉**； |
+
+
+
 
 **媒体报道 · AI4Math**  
-[腾讯新闻 · 中文报道 AI找出数学反例推翻论文，作者确认！453篇手稿，AI开始自己出题了](https://news.qq.com/rain/a/20260929A05IPE00?id=20260929A05IPE00&path=a&app=news&suid=&redirect_pc=1) · [KuCoin · English coverage](https://www.kucoin.com/news/flash/ai-system-produces-453-math-research-manuscripts-including-6-ai-proposed-conjectures?lang=en_US)
+[腾讯新闻 · 中文报道 AI找出数学反例推翻论文，作者确认！453篇手稿，AI开始自己出题了](https://news.qq.com/rain/a/20260929A05IPE00?id=20260929A05IPE00&path=a&app=news&suid=&redirect_pc=1) · [KuCoin · English coverage](https://www.kucoin.com/news/flash/ai-system-produces-453-math-research-manuscripts-including-6-ai-proposed-conjectures?lang=en_US) 
+
 [新智元 - 源码公开，AI破解冷战档案！220个符号零修改，多项历史密码成果](https://news.qq.com/rain/a/20261013A0D0B900)
 
 
