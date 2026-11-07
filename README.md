@@ -49,7 +49,7 @@ AI4Science · LLM Reasoning · Reinforcement Learning · Open Source
 | **CoRL** | [Water-Filling Allocation and Phase Transitions in Action-Conditioned Multimodal Information Bottlenecks](https://openreview.net/forum?id=334wtBsPIG#discussion) | 机器人操作。 |
 | **ICML** | [Multi-Layer GRPO: Enhancing Reasoning and Self-Correction in Large Language Models](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=uukwLqsAAAAJ&citation_for_view=uukwLqsAAAAJ:ufrVoPGSRksC) | 多层强化学习，提升推理与自我纠错能力。 |
 | **EMNLP** | [Differentiable Geometric Alignment for LLM Spatial Reasoning: Training-Time Symbolic Constraints, Solver-Free Inference](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=uukwLqsAAAAJ&citation_for_view=uukwLqsAAAAJ:bEWYMUwI8FkC) | 训练时引入符号约束，推理时无需求解器。 |
-| **NeurIPS (NIPS)** | [Reducing Credit Assignment Variance via Counterfactual Reasoning Paths](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=uukwLqsAAAAJ&citation_for_view=uukwLqsAAAAJ:-f6ydRqryjwC) | 通过反事实推理路径改善信用分配。 |
+| **NeurIPS (NIPS)** | [Reducing Credit Assignment Variance via Counterfactual Reasoning Paths](https://neurips.cc/virtual/2026/loc/sydney/poster/150771) | 通过反事实推理路径改善信用分配。 |
 
 
 
