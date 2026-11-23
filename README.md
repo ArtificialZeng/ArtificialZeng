@@ -28,6 +28,7 @@ AI4Science · LLM Reasoning · Reinforcement Learning · Open Source
 | **理论计算机TCS** | [Theoretical-Computer-Science](https://github.com/ArtificialZeng/Theoretical-Computer-Science) | **理论计算机**；  |
 | **历史解密** | [History Unlocked AI](https://github.com/ArtificialZeng/history-unlocked-ai) | **11 项研究条目**；HC615 已在官方目录标记为 Solved 并署名 Zijian Zeng；最新 HC1679 部分解读附带复现检查。 |
 | **AI生物** | [AI-Biology-Lab](https://github.com/ArtificialZeng/AI-Biology-Lab) | **AI生物**； |
+| **Operations-Research** | [Operations-Research](https://github.com/ArtificialZeng/Operations-Research) | **运筹学研究** |
 | **AI感觉** | [ai-can-feel](https://github.com/ArtificialZeng/ai-can-feel) | **AI感觉**； |
 
 
