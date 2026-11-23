@@ -22,6 +22,7 @@ AI4Science · LLM Reasoning · Reinforcement Learning · Open Source
 
 | 方向 | 项目 | 成果与亮点 |
 | --- | --- | --- |
+| **bootstrap-rsi** | [bootstrap-rsi](https://github.com/ArtificialZeng/bootstrap-rsi) | **AI直接改权重**，自主改权重，无需训练 |
 | **AI4Math** | [AI Has Taste](https://github.com/ArtificialZeng/AI-Has-Taste) | **453 篇研究手稿**，涵盖证明、反例、部分结果与 AI 提出的猜想；探索从生成答案到选择研究方向。 |
 | **AI4Physics** | [PROMETHEUS](https://github.com/ArtificialZeng/PROMETHEUS-10) | **10 篇物理研究手稿**，结合证明搜索、反例构造与受控计算，提供可检查的代码。 |
 | **理论计算机TCS** | [Theoretical-Computer-Science](https://github.com/ArtificialZeng/Theoretical-Computer-Science) | **理论计算机**；  |
