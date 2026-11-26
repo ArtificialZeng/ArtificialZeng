@@ -45,7 +45,7 @@ AI4Science · LLM Reasoning · Reinforcement Learning · Open Source
 
 [36kr - Open source code, AI cracks Cold War archives, zero modifications to 220 symbols, multiple achievements in historical cryptography.](https://eu.36kr.com/en/p/4025071599341700)
  
- [Lexical - Could This ONE Line Break Claude’s Riemann Hypothesis Proof? - YouTube](https://www.youtube.com/watch?v=tuFLvWqGaKo)
+ [Lexical - Could This ONE Line Break Claude’s Riemann Hypothesis Proof? - YouTube 06:03](https://www.youtube.com/watch?v=tuFLvWqGaKo)
 
 
 
