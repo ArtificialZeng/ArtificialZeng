@@ -30,6 +30,8 @@ AI4Science · LLM Reasoning · Reinforcement Learning · Open Source
 | **AI生物** | [AI-Biology-Lab](https://github.com/ArtificialZeng/AI-Biology-Lab) | **AI生物**； |
 | **Operations-Research** | [Operations-Research](https://github.com/ArtificialZeng/Operations-Research) | **运筹学研究** |
 | **AI感觉** | [ai-can-feel](https://github.com/ArtificialZeng/ai-can-feel) | **AI感觉**； |
+| **AI破解甲骨文+考释** | [ai-deciphers-oracle-bone](https://github.com/ArtificialZeng/ai-deciphers-oracle-bone
+) | **AI破解甲骨文+考释**； |
 
 
 
