@@ -24,6 +24,7 @@ AI4Science · LLM Reasoning · Reinforcement Learning · Open Source
 | --- | --- | --- |
 | **bootstrap-rsi** | [bootstrap-rsi](https://github.com/ArtificialZeng/bootstrap-rsi) | **AI直接改权重**，自主改权重，无需训练 |
 | **AI4Math** | [AI Has Taste](https://github.com/ArtificialZeng/AI-Has-Taste) | **453 篇研究手稿**，涵盖证明、反例、部分结果与 AI 提出的猜想；探索从生成答案到选择研究方向。 |
+| **Riemann-hypothesis-Auditing** | [Riemann-hypothesis-Auditing](https://github.com/ArtificialZeng/Riemann-hypothesis-Auditing) | **Riemann-hypothesis-Auditing黎曼猜想站台**； |
 | **AI4Physics** | [PROMETHEUS](https://github.com/ArtificialZeng/PROMETHEUS-10) | **100 篇物理研究手稿**，结合证明搜索、反例构造与受控计算，提供可检查的代码。 |
 | **理论计算机TCS** | [Theoretical-Computer-Science](https://github.com/ArtificialZeng/Theoretical-Computer-Science) | **理论计算机**；  |
 | **历史解密** | [History Unlocked AI](https://github.com/ArtificialZeng/history-unlocked-ai) | **11 项研究条目**；HC615 已在官方目录标记为 Solved 并署名 Zijian Zeng；最新 HC1679 部分解读附带复现检查。 |
@@ -43,6 +44,8 @@ AI4Science · LLM Reasoning · Reinforcement Learning · Open Source
 [新智元 - 源码公开，AI破解冷战档案！220个符号零修改，多项历史密码成果](https://news.qq.com/rain/a/20261013A0D0B900)
 
 [36kr - Open source code, AI cracks Cold War archives, zero modifications to 220 symbols, multiple achievements in historical cryptography.](https://eu.36kr.com/en/p/4025071599341700)
+ 
+ [Lexical - Could This ONE Line Break Claude’s Riemann Hypothesis Proof? - YouTube](https://www.youtube.com/watch?v=tuFLvWqGaKo)
 
 
 
