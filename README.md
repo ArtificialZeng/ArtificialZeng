@@ -31,6 +31,7 @@ AI4Science · LLM Reasoning · Reinforcement Learning · Open Source
 | **AI生物** | [AI-Biology-Lab](https://github.com/ArtificialZeng/AI-Biology-Lab) | **AI生物**； |
 | **AI4Chemistry** | [AI4Chemistry](https://github.com/ArtificialZeng/AI4Chemistry) | **AI化学**； |
 | **Operations-Research** | [Operations-Research](https://github.com/ArtificialZeng/Operations-Research) | **运筹学研究** |
+| **Nature Water submission** | [Nature-Water-submission](https://github.com/ArtificialZeng/Nature-Water-submission) | **水科学研究，Nature Water预印本投稿** |
 | **AI感觉** | [ai-can-feel](https://github.com/ArtificialZeng/ai-can-feel) | **AI感觉**； |
 | **AI破解甲骨文+考释** | [ai-deciphers-oracle-bone](https://github.com/ArtificialZeng/ai-deciphers-oracle-bone) | **AI破解甲骨文+考释**； |
 
